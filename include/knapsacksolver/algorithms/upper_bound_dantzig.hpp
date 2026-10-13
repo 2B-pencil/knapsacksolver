@@ -2,6 +2,7 @@
 
 #include "knapsacksolver/solution.hpp"
 #include "knapsacksolver/sort.hpp"
+#include <iomanip>
 
 namespace knapsacksolver
 {

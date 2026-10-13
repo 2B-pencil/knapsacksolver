@@ -1,4 +1,5 @@
 #include "knapsacksolver/solution.hpp"
+#include <iomanip>
 
 using namespace knapsacksolver;
 

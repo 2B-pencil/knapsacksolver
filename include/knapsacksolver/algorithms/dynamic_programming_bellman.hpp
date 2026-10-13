@@ -1,6 +1,7 @@
 #pragma once
 
 #include "knapsacksolver/solution.hpp"
+#include <iomanip>
 
 namespace knapsacksolver
 {
